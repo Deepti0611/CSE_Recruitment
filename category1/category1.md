@@ -28,3 +28,5 @@ This is for printing reading and printing IMU data
 
 
 ROS2 integration - thought of doing it later and submitting this for now 
+
+reference -https://chatgpt.com/share/69d73b87-cb84-8322-9faa-d1a1eded7fd4
